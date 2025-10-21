@@ -25,4 +25,4 @@ To protect company data, secure communications, and maintain a secure Kubernetes
 2. Create a Storage Account with the recommended security settings.
 3. Create an AKS cluster and connect it to the Storage Account.
 
-![Security Architecture](https://github.com/usuario/repositorio/blob/main/assets/DKM5U5w.png?raw=true)
+![Security Architecture](https://i.imgur.com/DKM5U5w.png)
