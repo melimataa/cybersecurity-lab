@@ -63,8 +63,6 @@ This section describes how clients/users securely access the services.
 
 ![Architecture Diagram](https://i.imgur.com/o5m3uFQ.png)
 
-> Replace this with actual diagrams or screenshots if needed.
-
 ---
 
 ## ✅ Conclusion
