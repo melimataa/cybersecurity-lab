@@ -58,7 +58,7 @@ Private Network (Private Subnet - US-West-x)
 
 Diagrams & Visual Resources
 
-![Descripción]([https://i.imgur.com/abcd1234.png](https://imgur.com/a/OjBLOhX))
+![Image](https://i.imgur.com/o5m3uFQ.png)
 
 ⸻
 
