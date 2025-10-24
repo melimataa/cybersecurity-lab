@@ -1,4 +1,4 @@
-# 🧠 Case Study: Introduction to Cybersecurity — Hands-On Lab with Zenmap & Wireshark
+# Case Study: Introduction to Cybersecurity — Hands-On Lab with Zenmap & Wireshark
 
 ## 🔍 Overview
 This hands-on project explores the fundamentals of **network auditing and vulnerability detection** using two essential tools: **Zenmap (Nmap GUI)** and **Wireshark**.  
