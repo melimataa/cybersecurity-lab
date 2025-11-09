@@ -177,6 +177,7 @@ User input passed to OS command execution without sanitization enables command c
 * Use security headers (CSP, HSTS, X-Frame-Options, etc.)
 * Apply proper authentication, session management, and token protections
 
+---
 
 ## payloads_sanitized.md (embedded)
 
@@ -208,7 +209,7 @@ This section contains sanitized example payloads and step-by-step explanations f
 
 Performing attacks against systems you do not own or have explicit permission to test is illegal in many jurisdictions. This material is for learning in controlled environments only. Always obtain explicit authorization before performing any security testing on systems you do not own.
 
-## Quick actions & tips for maintainers
+### Quick actions & tips for maintainers
 
 *Keep this repo private until you are comfortable with the public content.
 
