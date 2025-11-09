@@ -189,16 +189,16 @@ This section contains sanitized example payloads and step-by-step explanations f
 
 ### How to use these placeholders
 
-*Replace placeholders like <SQL_INJECTION_PAYLOAD_EXAMPLE> only within a local DVWA instance or other isolated lab.
-*Do not commit exploit strings or sensitive screenshots to public repos. Use [REDACTED] or placeholders in images and text.
-*If you accidentally expose sensitive content, follow the repo cleanup steps (make repo private, remove files from HEAD, re-write history if necessary, rotate credentials).
+* Replace placeholders like <SQL_INJECTION_PAYLOAD_EXAMPLE> only within a local DVWA instance or other isolated lab.
+* Do not commit exploit strings or sensitive screenshots to public repos. Use [REDACTED] or placeholders in images and text.
+* If you accidentally expose sensitive content, follow the repo cleanup steps (make repo private, remove files from HEAD, re-write history if necessary, rotate credentials).
 
 ### Safe testing guidance (summary)
 
-*Start DVWA locally in Docker: docker run --rm -it -p 80:80 vulnerables/web-dvwa.
-*Use DVWA only in a private/local network.
-*Replace placeholders only inside your lab's requests or UI.
-*Log results locally; do not upload raw exploit strings to public repos.
+* Start DVWA locally in Docker: docker run --rm -it -p 80:80 vulnerables/web-dvwa.
+* Use DVWA only in a private/local network.
+* Replace placeholders only inside your lab's requests or UI.
+* Log results locally; do not upload raw exploit strings to public repos.
 
 ### Educational / legal / ethical note
 
@@ -206,10 +206,10 @@ Performing attacks against systems you do not own or have explicit permission to
 
 ### Quick actions & tips for maintainers
 
-*Keep this repo private until you are comfortable with the public content.
-*Redact any screenshots (blur or overlay [REDACTED] / placeholders) before committing.
-*If you need to remove a file from the repository history, use BFG or git-filter-repo.
-*Add a short blurb for recruiters explaining that the repo is sanitized and available upon request.
+* Keep this repo private until you are comfortable with the public content.
+* Redact any screenshots (blur or overlay [REDACTED] / placeholders) before committing.
+* If you need to remove a file from the repository history, use BFG or git-filter-repo.
+* Add a short blurb for recruiters explaining that the repo is sanitized and available upon request.
 
 
 
