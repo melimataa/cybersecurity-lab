@@ -75,6 +75,7 @@ User input concatenated into SQL queries without proper parameterization can cha
 * Apply least privilege to database accounts
 * Store passwords with secure hashing (e.g., bcrypt)
 
+![Description of image](G0N2cbt.png)
 
 ---
 
