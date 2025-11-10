@@ -17,13 +17,13 @@ The goal is to understand how attackers can perform reconnaissance through netwo
 
 ### 🧩 Exercise 1: Network Connection & Discovery
 - VM: `ajimeneze-vm`
-- Private IP: `10.0.1.9`
+- Private IP: `10.0.1.[REDACTED]`
 
 ---
 
 ### 🔎 Exercise 2: Quick Port Scan
 **Hosts detected:** 7  
-`10.0.1.1 (Gateway), 10.0.1.4 – 10.0.1.9`
+`10.0.1.1 (Gateway), 10.0.1.4 – 10.0.1.[REDACTED]`
 
 **Open ports and services:**
 
